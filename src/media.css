@@ -1,0 +1,13 @@
+@media screen and (max-width:1024px){
+  .tile{
+    margin-left: 8%;
+    width: 40%;
+  }
+  .into{
+    height:30vh;
+    width:70%;
+  }
+  .intro-para{
+    font-size: 1rem;
+  }
+}
